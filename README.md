@@ -4,4 +4,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [vue3-music](https://github.com/zhiyi98/vue3-music) and [NeteaseCloudMusicApi](https://github.com/zhiyi98/NeteaseCloudMusicApi).
+- 🔭 I’m currently working on [vue3-music](https://github.com/zhiyi98/vue3-music) ,[electron-vue-music](https://github.com/zhiyi98/electron-vue-music) and [NeteaseCloudMusicApi](https://github.com/zhiyi98/NeteaseCloudMusicApi).
